@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 i tu tez
 aaaaaaaaaaaa
 
 dodam cos tu se
+=======
+erwerwerwwwwwwwwwwwwwwwwwwww
+aaaaadfadfadgergr
+>>>>>>> 20ce515e1b1ca69c7025d8a0382c0c5512bb12f4
